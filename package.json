@@ -48,7 +48,7 @@
     "swiper": "8.3.2",
     "url-loader": "^4.1.1",
     "use-clipboard-copy": "^0.2.0",
-    "use-resize-observer": "^9.0.2",
+    "use-resize-observer": "^9.0.2"
   },
   "devDependencies": {
     "@types/node": "^18.14.4",
@@ -84,7 +84,7 @@
     "remark-footnotes": "^4.0.1",
     "remark-gfm": "^3.0.1",
     "remark-sectionize": "^1.1.1",
-    "remark-slug": "^7.0.1",
+    "remark-slug": "^7.0.1"
   },
   "prettier": {
     "arrowParens": "always",
